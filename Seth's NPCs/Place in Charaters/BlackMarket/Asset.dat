@@ -1,0 +1,28 @@
+GUID 7b622296269745be8fd33b668a5581c8
+
+
+Type NPC
+ID 4002
+
+Shirt 1156
+Pants 1157
+Hat 425
+Mask 1048
+	
+// Glasses
+
+// Beard *
+Face 0
+Hair 0
+
+Color_Skin #4d2600
+Color_hair #000000
+
+//Pose
+//backward
+
+// Secondary 1369
+Primary 1441
+Equipped Primary
+
+Dialogue 5077

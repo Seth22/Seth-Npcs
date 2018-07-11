@@ -1,0 +1,27 @@
+GUID f7703223779640e8abab4f8fbc75ac6b
+
+
+Type Vendor
+ID 6077
+
+Selling 5
+// Nykorev
+Selling_0_ID 126
+Selling_0_Cost 8500
+// Launcher
+Selling_1_ID 519
+Selling_1_Cost 12500
+// Matamorez
+Selling_2_ID 1000
+Selling_2_Cost 10000
+// rockets
+Selling_3_ID 520
+Selling_3_Cost 2000
+// Matamorez box
+Selling_4_ID 1005
+Selling_5_Cost 750
+
+
+
+
+

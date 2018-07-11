@@ -1,0 +1,25 @@
+GUID 0e73c886e5c548c887c790fa1ef11357
+
+Type NPC
+ID 4000
+
+Shirt 1386
+Pants 1387
+Hat 1385
+// Glasses
+
+// Beard *
+Face 5
+Hair 0
+
+Color_Skin #994d00
+Color_hair #000000
+
+// Pose
+// backward
+
+Secondary 1447
+Primary 297
+Equipped Secondary
+
+Dialogue 5000

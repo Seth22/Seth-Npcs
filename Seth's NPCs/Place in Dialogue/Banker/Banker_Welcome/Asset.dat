@@ -1,0 +1,11 @@
+GUID b558b05bbe5d4e8bbc4537b4dc279fdf
+
+Type Dialogue
+ID 5005
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+Response_0_Vendor 6001
+Response_0_Dialogue 5055

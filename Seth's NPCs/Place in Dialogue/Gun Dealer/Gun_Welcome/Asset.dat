@@ -1,0 +1,11 @@
+GUID 4ee012f8eba74f96ab2b20d9fbe38ddb
+
+Type Dialogue
+ID 5000
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+Response_0_Vendor 6666
+Response_0_Dialogue 5110

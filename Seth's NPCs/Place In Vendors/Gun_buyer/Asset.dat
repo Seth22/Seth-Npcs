@@ -1,0 +1,87 @@
+GUID f9b38f8338424e78a5613d44b34d57b1
+
+Type Vendor
+ID 6666
+
+Selling 12
+// Maplestrike
+Selling_0_ID 363
+Selling_0_Cost 2000
+// Drum
+Selling_1_ID 17
+Selling_1_Cost 250
+// ak
+Selling_2_ID 122
+Selling_2_Cost 1500
+// Ranger Mag
+Selling_3_ID 123
+Selling_3_Cost 250
+// Ekho
+Selling_4_ID 1382
+Selling_4_Cost 3500
+// Ekho mag
+Selling_5_ID 1384
+Selling_5_Cost 300
+// Colt Mag
+Selling_6_ID 97
+Selling_6_Cost 200
+// Colt Mag
+Selling_6_ID 98
+Selling_6_Cost 25
+// HeartBreaker
+Selling_7_ID 1037
+Selling_7_Cost 1000
+// Red dot
+Selling_8_ID 146
+Selling_8_Cost 100
+// Chevron
+Selling_9_ID 148
+Selling_9_Cost 100
+// Laser
+Selling_10_ID 151
+Selling_10_Cost 100
+// Tact Light
+Selling_11_ID 152
+Selling_11_Cost 100
+
+Buying 12
+// Maplestrike
+Buying_0_ID 363
+Buying_0_Cost 2500
+// Drum
+Buying_1_ID 17
+Buying_1_Cost 500
+// AK
+Buying_2_ID 122
+Buying_2_Cost 1750
+// Ranger Mag
+Buying_3_ID 123
+Buying_3_Cost 350
+// Ekho
+Buying_4_ID 1382
+Buying_4_Cost 3500
+// Ekho mag
+Buying_5_ID 1384
+Buying_5_Cost 600
+// Colt Mag
+Buying_6_ID 97
+Buying_6_Cost 400
+// Colt Mag
+Buying_6_ID 98
+Buying_6_Cost 50
+// HeartBreaker
+Buying_7_ID 1037
+Buying_7_Cost 2000
+// Red dot
+Buying_8_ID 146
+Buying_8_Cost 200
+// Chevron
+Buying_9_ID 148
+Buying_9_Cost 200
+// Laser
+Buying_10_ID 151
+Buying_10_Cost 200
+// Tact Light
+Buying_11_ID 152
+Buying_11_Cost 200
+

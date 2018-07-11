@@ -1,0 +1,26 @@
+GUID 33ae8242435f44adb84ea3a6556e3f8c
+
+Type Vendor
+ID 6001
+
+Selling 5
+// $5 Note
+Selling_0_ID 1051
+Selling_0_Cost 50
+// $10 note
+Selling_1_ID 1052
+Selling_1_Cost 100
+// $20 note
+Selling_2_ID 1053
+Selling_2_Cost 200
+// $50 note
+Selling_3_ID 1054
+Selling_3_Cost 500
+// $100 note
+Selling_4_ID 1055
+Selling_4_Cost 1000
+
+
+
+
+
