@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RocketPermissions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefaultGroup>default</DefaultGroup>
+  <Groups>
+    <Group>
+      <Id>default</Id>
+      <DisplayName>Guest</DisplayName>
+      <Prefix>[Player]</Prefix>
+      <Suffix />
+      <Color>white</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.command.tpa</Permission>
+        <Permission Cooldown="120">essentials.command.tpa.send</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.deny</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.cancel</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.accept</Permission>
+        <Permission Cooldown="600">essentials.kit.starter</Permission>
+        <Permission Cooldown="0">essentials.command.kit</Permission>
+        <Permission Cooldown="0">essentials.command.kits</Permission>
+        <Permission Cooldown="0">essentials.command.tell</Permission>
+        <Permission Cooldown="0">essentials.command.reply</Permission>
+      </Permissions>
+    </Group>
+	<Group>
+	  <Id>Donator</Id>
+      <DisplayName>Donator</DisplayName>
+      <Prefix>[Donator]</Prefix>
+      <Suffix />
+      <Color>#ffff00</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.command.tpa</Permission>
+        <Permission Cooldown="120">essentials.command.tpa.send</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.deny</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.cancel</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.accept</Permission>
+        <Permission Cooldown="600">essentials.kit.starter</Permission>
+        <Permission Cooldown="0">essentials.command.kit</Permission>
+        <Permission Cooldown="0">essentials.command.kits</Permission>
+        <Permission Cooldown="0">essentials.command.tell</Permission>
+        <Permission Cooldown="0">essentials.command.reply</Permission>
+		<Permission Cooldown="1800">essentials.command.item</Permission>
+      </Permissions>
+    </Group>
+	<Group>
+	  <Id>VIP</Id>
+      <DisplayName>VIP</DisplayName>
+      <Prefix>[VIP]</Prefix>
+      <Suffix />
+      <Color>#ff1a75</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.command.tpa</Permission>
+        <Permission Cooldown="120">essentials.command.tpa.send</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.deny</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.cancel</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.accept</Permission>
+        <Permission Cooldown="600">essentials.kit.starter</Permission>
+        <Permission Cooldown="0">essentials.command.kit</Permission>
+        <Permission Cooldown="0">essentials.command.kits</Permission>
+        <Permission Cooldown="0">essentials.command.tell</Permission>
+        <Permission Cooldown="0">essentials.command.reply</Permission>
+		<Permission Cooldown="1000">essentials.command.kit.VIP</Permission>
+      </Permissions>
+    </Group>
+	<Group>
+	  <Id>Donator+</Id>
+      <DisplayName>VIP</DisplayName>
+      <Prefix>[VIP]</Prefix>
+      <Suffix />
+      <Color>#ff0000</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.command.tpa</Permission>
+        <Permission Cooldown="120">essentials.command.tpa.send</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.deny</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.cancel</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.accept</Permission>
+        <Permission Cooldown="600">essentials.kit.starter</Permission>
+        <Permission Cooldown="0">essentials.command.kit</Permission>
+        <Permission Cooldown="0">essentials.command.kits</Permission>
+        <Permission Cooldown="0">essentials.command.tell</Permission>
+        <Permission Cooldown="0">essentials.command.reply</Permission>
+		<Permission Cooldown="1800">essentials.command.item</Permission>
+      </Permissions>
+    </Group>
+	<Group>
+	  <Id>MVP</Id>
+      <DisplayName>MVP</DisplayName>
+      <Prefix>[MVP]</Prefix>
+      <Suffix />
+      <Color>#000000</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.command.tpa</Permission>
+        <Permission Cooldown="120">essentials.command.tpa.send</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.deny</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.cancel</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.accept</Permission>
+        <Permission Cooldown="600">essentials.kit.starter</Permission>
+        <Permission Cooldown="0">essentials.command.kit</Permission>
+        <Permission Cooldown="0">essentials.command.kits</Permission>
+        <Permission Cooldown="0">essentials.command.tell</Permission>
+        <Permission Cooldown="0">essentials.command.reply</Permission>
+		<Permission Cooldown="1000">essentials.command.kit.MVP</Permission>
+      </Permissions>
+    </Group>
+	<Group>
+      <Id>Trial</Id>
+      <DisplayName />
+      <Prefix>[Tmod]</Prefix>
+      <Suffix />
+      <Color>#FFFF33</Color>
+      <Members />
+      <ParentGroup>default</ParentGroup>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="120">heal</Permission>
+        <Permission Cooldown="120">tp</Permission>
+        <Permission Cooldown="120">tphere</Permission>
+	  </Permissions>
+	</Group>
+  </Groups>
+</RocketPermissions>
